@@ -45,7 +45,7 @@ narrative; the appendix is the technical insurance.**
 ## Repository structure
 
 ```
-enablement-kit/
+enablement-playbook/
 ├─ README.md
 ├─ START_HERE.md
 ├─ prompts/
